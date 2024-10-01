@@ -1,0 +1,10 @@
+[
+   {
+      "front": "Hinweis 1/2",
+      "back": "Der optimale Paramter n_estimators hat die höchste Accuracy." 
+   },
+   {
+      "front": "Hinweis 2/2",
+      "back": "Der optimale Parameter ist 6 (siehe Plot)."
+   }
+]

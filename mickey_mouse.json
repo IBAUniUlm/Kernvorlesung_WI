@@ -1,0 +1,6 @@
+[
+   {
+      "front": "Hinweis 1/1",
+      "back": "DBSCAN und Fuzzy C-Means performen besser im 'Mickey Mouse'-Problem, da sie flexibel auf unregelmäßige und unterschiedlich dichte Clusterformen reagieren können, während K-Means und EM Clustering davon ausgehen, dass die Cluster kugelförmig und ähnlich groß sind. DBSCAN erkennt nichtlineare Clusterformen und kann Rauschen identifizieren, während Fuzzy C-Means eine weiche Zuweisung erlaubt, die überlappende Cluster besser modelliert. K-Means und EM haben Schwierigkeiten, sich an die komplexe Struktur der 'Mickey Mouse'-Daten anzupassen."
+   }
+]

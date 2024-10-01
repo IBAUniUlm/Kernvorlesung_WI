@@ -1,0 +1,10 @@
+[
+   {
+      "front": "Hinweis 1/2",
+      "back": "Die Funktion .drop(columns=[...]) könnte hilfreich sein."
+   },
+   {
+      "front": "Hinweis 2/2",
+      "back": "Tragen Sie dazu den Spaltennamen mit Anführungszeichen zwischen die rechteckigen Klammern ein ('CustomerID')."
+   }
+]

@@ -1,0 +1,10 @@
+[
+   {
+      "front": "Hinweis 1/2",
+      "back": "Tragen Sie dazu den Namen der Spalte, die der Entscheidungsbaum vorhersagen soll anstelle des Platzhalters ein."
+   },
+   {
+      "front": "Hinweis 2/2",
+      "back": "Tragen Sie dazu 'Churn' anstelle des Platzhalters ein."
+   }
+]

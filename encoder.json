@@ -1,0 +1,18 @@
+[
+   {
+      "front": "Hinweis 1/4",
+      "back": "Zunächst betrachten wir die Spalte mit nur zwei möglichen Werten. Mit dem Encoder können Sie alle Spalten, die nicht-numerische Daten enhält, in numerische Daten umwandeln. Wäre dies beispielsweise die Spalte Dauer, müssten Sie anstelle des Platzhalters folgenden Text einfügen (inkl. Anführungszeichen): 'Dauer'."
+   },
+   {
+      "front": "Hinweis 2/4",
+      "back": "Fügen Sie folgenden Text in den ersten Block ein (inkl. Anführungszeichen): 'Gender'."
+   },
+   {
+      "front": "Hinweis 3/4",
+      "back": "Für Spalten mit mehr als zwei Werten, die man anordnen kann (z.B. die Dauer des Vertrag, der mathematisch gesehen gilt, dass lang > mittel > kurz), muss man dem Encoder, die Reihenfolge manuell übergeben, da er ansonsten die Werte alphabetisch anordnet."
+   },
+   {
+      "front": "Hinweis 4/4",
+      "back": "Fügen Sie die Variablen Subscription Type und Contract Length in den zweiten Block ein (inkl. Anführungszeichen)."
+   }
+]
